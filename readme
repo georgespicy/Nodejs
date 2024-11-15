@@ -1,0 +1,5 @@
+page default url: http://localhost:5000/
+admin url: http://localhost:5000/admin
+setup : npm i
+admin username: spicy
+admin password: spicy
